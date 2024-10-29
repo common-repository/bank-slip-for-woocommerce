@@ -1,0 +1,15 @@
+#wc-order-bankslip-options{
+   display: none;
+}
+#wc-order-bankslip-options div{
+   padding: 1em 0;
+   clear: both;
+   display: flex;
+   justify-content: space-between;
+}
+.post-type-shop_order .wp-list-table .column-order_status .description{
+   display: block;
+   color: #999;
+   line-height: 1em;
+   margin-top: 5px;
+}
